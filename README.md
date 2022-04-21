@@ -8,4 +8,11 @@
 ![image](https://user-images.githubusercontent.com/95777297/164363277-c9a322d2-9a90-4609-a8ab-c0635ab9568c.png)
 * SMOTE oversampling: Accuracy for this test is 64%, the precision the high risk is 1% with 72% recall. 
 ![image](https://user-images.githubusercontent.com/95777297/164363734-b1483051-df15-4085-8706-e260302de28d.png)
-* 
+* Undersampling: 
+![image](https://user-images.githubusercontent.com/95777297/164363915-68aa3856-985c-4d63-9727-4935546749a0.png)
+* Combination
+![image](https://user-images.githubusercontent.com/95777297/164364013-11139bc8-68ba-4bf3-8be5-43e09c4e60d7.png)
+* Balanced Random Forest Classifier: 
+![image](https://user-images.githubusercontent.com/95777297/164364316-38b060a4-6bbb-413b-8583-fdac7f669fd9.png)
+* Easy Ensemble AdaBoost Classifier:
+![image](https://user-images.githubusercontent.com/95777297/164364415-91026dd3-e7ec-4290-a01c-9e0b12edcb52.png)
